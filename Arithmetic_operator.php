@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <TITLE>Php Operators</TITLE>
+    <title>Php Operators</title>
 </head>
 
 <body bgcolor="powderblue">
