@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <TITLE>PHP Operators</TITLE>
+    <title>PHP Operators</title>
 </head>
 
 <body bgcolor="powderblue">
@@ -13,6 +13,7 @@
 
     $a = 20;
     $b = 18;
+
     echo "EQUALS TO: the value of $a == $b";
     echo var_dump($a == $b), "<br>";
     
@@ -34,6 +35,3 @@
 </body>
 
 </html>
-
-
-
